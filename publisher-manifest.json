@@ -1,0 +1,99 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "cf71fe69b4d3e4436c2b1aa7",
+  "owner": "jwkhnv",
+  "repo": "page-3e5bb9cc841d690814fb6e37",
+  "title": "机场测评",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "3e5bb9cc841d690814fb6e37",
+      "a": "机场测评",
+      "b": "",
+      "entity": "机场测评",
+      "brand": "机场测评",
+      "separator": "",
+      "path": "index.html",
+      "hash": "eb34b21e7a3cfb41ed5bd8d8d3a4d04ac30682670a805f094cf05c9801744193",
+      "content": {
+        "keyword1": "机场测评",
+        "keyword2": "",
+        "primary_entity": "机场测评",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "机场测评为您提供专业VPN梯子加速器服务，多种套餐供选，精选客户端下载，稳定加速助力畅快体验。官网下载入口。",
+          "AI_DESCRIPTION": "机场测评为您提供专业VPN梯子加速器服务，多种套餐供选，精选客户端下载，稳定加速助力畅快体验。官网下载入口。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;background:#fafafa;color:#333;line-height:1.6;max-width:1200px;margin:0 auto;padding:20px}h1{color:#ff6b6b;font-size:2.5em;margin-bottom:20px}h2{color:#ff8a65;font-size:1.8em;margin:30px 0 15px}ul,ol{padding-left:20px}li{margin:8px 0} .card{background:#fff;border-radius:12px;box-shadow:0 4px 6px rgba(0,0,0,.1);padding:20px;margin:20px 0;border:2px solid #ff8a65} .plan.featured{border-color:#ff6b6b;box-shadow:0 0 0 3px rgba(255,107,107,.2)} .plan h3{color:#ff6b6b;margin-bottom:10px} .plan p{margin:5px 0;color:#555} details{background:#fff;padding:15px;border-radius:8px;margin:10px 0} summary{font-weight:700;cursor:pointer;color:#ff6b6b} @media(max-width:768px){body{padding:10px}h1{font-size:2em}h2{font-size:1.6em}}</style><main><h1>机场测评</h1><h2>品牌简介</h2><p>机场测评是专注于VPN梯子网络加速的品牌，提供稳定高速的网络加速解决方案。通过精心筛选的节点和优化线路，为用户带来畅快上网体验。无论日常浏览、远程办公还是游戏娱乐，机场测评都能满足您的需求。</p><h2>使用场景</h2><ul><li>解锁流媒体平台，如Netflix、Disney+、YouTube等</li><li>多人在线游戏加速优化</li><li>跨境商务数据传输安全稳定</li><li>家庭共享设备多台在线</li></ul><h2>客户端选择与下载</h2><p>机场测评提供Windows、Mac、iOS、Android及浏览器扩展等多种客户端下载，支持一键安装配置。选择适合您的设备，立即体验加速服务。</p><div class=\"card\"><h3>基础版</h3><p>¥15/月 | 按年付仅需 ¥150/年</p><p>每月100GB极速流量，支持3台设备同时在线，解锁基础流媒体，普通线路节点池。</p></div><div class=\"card\"><h3>旗舰版</h3><p>¥35/月 | 按年付仅需 ¥350/年</p><p>每月300GB极速流量，支持5台设备同时在线，全节点原生流媒体解锁，IPLC专线游戏加速优化，7x24优先工单支持。</p></div><div class=\"card\"><h3>团队版</h3><p>¥85/月 | 按年付仅需 ¥850/年</p><p>每月1000GB极速流量，支持20台设备同时在线，VIP专属高带宽节点，支持企业定制路由，专属客户经理服务。</p></div><h2>操作说明</h2><ol><li>选择适合您的套餐并完成支付</li><li>登录官网下载对应客户端</li><li>安装客户端并配置账号信息</li><li>选择节点连接加速网络</li><li>享受稳定高速的网络加速服务</li></ol><h2 id=\"faq\">常见问题</h2><details><summary>机场测评是什么？</summary><p>机场测评是专业的VPN梯子加速器品牌，提供高质量网络加速和客户端下载服务，帮助用户突破网络限制，提升上网速度和稳定性。</p></details><details><summary>如何选择套餐？</summary><p>基础版适合轻度使用，旗舰版支持流媒体和游戏加速，团队版适合企业大流量需求，根据预算和设备数量选择即可。</p></details><details><summary>客户端下载地址在哪里？</summary><p>您可以在官网找到所有客户端下载链接，包括Windows、Mac、iOS等，支持一键下载和配置。</p></details><details><summary>加速效果如何？</summary><p>机场测评采用高速节点和优化线路，提供稳定加速体验，可有效提升上网速度，解锁流媒体和游戏。</p></details><details><summary>支持哪些设备？</summary><p>支持Windows、Mac、iOS、Android和浏览器插件，多种客户端供您选择，灵活适配不同设备。</p></details><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><div><h2>友情链接</h2><p>更多优质VPN资源：<a href=\"#\">机场测评官网</a></p></div>",
+          "hash": "721f6db2f076e3cfd83d09547bb0d5208db294df227cc850d1914bda573af283",
+          "seo": {
+            "title": "机场测评 - 优质VPN梯子加速器客户端下载 | 官网",
+            "keywords": "机场测评,VPN梯子,加速器,客户端下载,机场订阅,网络加速",
+            "description": "机场测评为您提供专业VPN梯子加速器服务，多种套餐供选，精选客户端下载，稳定加速助力畅快体验。官网下载入口。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "bainubaba.cn",
+    "host": "p-33446ddad7.bainubaba.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "aeaf3b1ec4e1412728f5b18389e2a1646a93363ffc34fa8feabb5bdc676cb32a",
+    "sitemap.xml": "4e1140d97ef95b4ccec06e50142f6e8a5ef1331fd3694ff55ca9d5c6d210f2ce",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "5497e2f2934aed4d5d5aaee042ca5552180c75f7ebfeafb31ace61d2d7404d01",
+    "robots.txt": "b1f8df304d7a159c87b70d730034196e94c38b01e53c2bd5757d79fe8ebfa258",
+    "b0180e18c68ece16093124a752062950.txt": "d99ba78beb0b5fb70c869c713cd1e1daa977fc8564d68418a6b42d4bf8273298"
+  },
+  "revision": "1434c580fa40be0b8f00488c450b0da6db607c31c92c11a22d7fed847182f79d"
+}
